@@ -1,0 +1,17 @@
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Negocio\bin\Debug\net8.0-windows\Capa Negocio.deps.json
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Negocio\bin\Debug\net8.0-windows\Capa Negocio.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Negocio\bin\Debug\net8.0-windows\Capa Negocio.pdb
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Negocio\obj\Debug\net8.0-windows\Capa Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Negocio\obj\Debug\net8.0-windows\Capa Negocio.AssemblyInfoInputs.cache
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Negocio\obj\Debug\net8.0-windows\Capa Negocio.AssemblyInfo.cs
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Negocio\obj\Debug\net8.0-windows\Capa Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Negocio\obj\Debug\net8.0-windows\Capa Negocio.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Negocio\obj\Debug\net8.0-windows\refint\Capa Negocio.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Negocio\obj\Debug\net8.0-windows\Capa Negocio.pdb
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Negocio\obj\Debug\net8.0-windows\ref\Capa Negocio.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Negocio\bin\Debug\net8.0-windows\Capa Datos.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Negocio\bin\Debug\net8.0-windows\Capa Dominio.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Negocio\bin\Debug\net8.0-windows\Capa Datos.pdb
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Negocio\bin\Debug\net8.0-windows\Capa Dominio.pdb
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Negocio\obj\Debug\net8.0-windows\Capa Negocio.csproj.AssemblyReference.cache
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Negocio\obj\Debug\net8.0-windows\Capa Neg.64FF6D98.Up2Date

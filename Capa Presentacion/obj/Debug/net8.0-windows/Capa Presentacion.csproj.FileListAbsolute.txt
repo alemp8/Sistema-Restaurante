@@ -1,0 +1,69 @@
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\Capa Presentacion.exe
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\Capa Presentacion.deps.json
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\Capa Presentacion.runtimeconfig.json
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\Capa Presentacion.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\Capa Presentacion.pdb
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\Capa Dominio.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\Capa Negocio.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\Capa Dominio.pdb
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\Capa Negocio.pdb
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\obj\Debug\net8.0-windows\Capa Presentacion.csproj.AssemblyReference.cache
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\obj\Debug\net8.0-windows\Capa Presentacion.csproj.GenerateResource.cache
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\obj\Debug\net8.0-windows\Capa Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\obj\Debug\net8.0-windows\Capa Presentacion.AssemblyInfoInputs.cache
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\obj\Debug\net8.0-windows\Capa Presentacion.AssemblyInfo.cs
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\obj\Debug\net8.0-windows\Capa Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\obj\Debug\net8.0-windows\Capa Presentacion.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\obj\Debug\net8.0-windows\refint\Capa Presentacion.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\obj\Debug\net8.0-windows\Capa Presentacion.pdb
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\obj\Debug\net8.0-windows\Capa Presentacion.genruntimeconfig.cache
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\obj\Debug\net8.0-windows\ref\Capa Presentacion.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\Capa Datos.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\bin\Debug\net8.0-windows\Capa Datos.pdb
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\obj\Debug\net8.0-windows\Capa_Presentacion.FrmCliente.resources
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\obj\Debug\net8.0-windows\Capa_Presentacion.RegistroClientes.resources
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\obj\Debug\net8.0-windows\Capa_Presentacion.FrmProductos.resources
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\obj\Debug\net8.0-windows\Capa_Presentacion.Menu.resources
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\obj\Debug\net8.0-windows\Capa_Presentacion.RegistroProducto.resources
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\obj\Debug\net8.0-windows\Capa_Presentacion.FrmProveedores.resources
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\obj\Debug\net8.0-windows\Capa_Presentacion.RegistroProveedor.resources
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\obj\Debug\net8.0-windows\Capa_Presentacion.Properties.Resources.resources
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\obj\Debug\net8.0-windows\Capa Pre.6EE772B1.Up2Date
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\obj\Debug\net8.0-windows\Capa_Presentacion.RegistroPedidos.resources
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\obj\Debug\net8.0-windows\Capa_Presentacion.ControlUsuario.resources
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\obj\Debug\net8.0-windows\Capa_Presentacion.FrmUsuarios.resources
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Restaurante\Sistema Restaurante\Capa Presentacion\obj\Debug\net8.0-windows\Capa_Presentacion.Login.resources

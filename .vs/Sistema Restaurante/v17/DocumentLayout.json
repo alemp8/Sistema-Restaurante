@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D80D6E67-FBD8-4F5E-AA76-3489CDDC2990}|Capa Presentacion\\Capa Presentacion.csproj|c:\\users\\victor alejandro\\desktop\\proyectos net\\sistema restaurante\\sistema restaurante\\capa presentacion\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80D6E67-FBD8-4F5E-AA76-3489CDDC2990}|Capa Presentacion\\Capa Presentacion.csproj|solutionrelative:capa presentacion\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80D6E67-FBD8-4F5E-AA76-3489CDDC2990}|Capa Presentacion\\Capa Presentacion.csproj|c:\\users\\victor alejandro\\desktop\\proyectos net\\sistema restaurante\\sistema restaurante\\capa presentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80D6E67-FBD8-4F5E-AA76-3489CDDC2990}|Capa Presentacion\\Capa Presentacion.csproj|solutionrelative:capa presentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80D6E67-FBD8-4F5E-AA76-3489CDDC2990}|Capa Presentacion\\Capa Presentacion.csproj|c:\\users\\victor alejandro\\desktop\\proyectos net\\sistema restaurante\\sistema restaurante\\capa presentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D80D6E67-FBD8-4F5E-AA76-3489CDDC2990}|Capa Presentacion\\Capa Presentacion.csproj|solutionrelative:capa presentacion\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80D6E67-FBD8-4F5E-AA76-3489CDDC2990}|Capa Presentacion\\Capa Presentacion.csproj|c:\\users\\victor alejandro\\desktop\\proyectos net\\sistema restaurante\\sistema restaurante\\capa presentacion\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D80D6E67-FBD8-4F5E-AA76-3489CDDC2990}|Capa Presentacion\\Capa Presentacion.csproj|solutionrelative:capa presentacion\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Presentacion\\Login.cs",
+              "RelativeDocumentMoniker": "Capa Presentacion\\Login.cs",
+              "ToolTip": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Presentacion\\Login.cs",
+              "RelativeToolTip": "Capa Presentacion\\Login.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:29:50.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Presentacion\\Login.cs",
+              "RelativeDocumentMoniker": "Capa Presentacion\\Login.cs",
+              "ToolTip": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Presentacion\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa Presentacion\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:03:19.062Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Presentacion\\Menu.cs",
+              "RelativeDocumentMoniker": "Capa Presentacion\\Menu.cs",
+              "ToolTip": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Presentacion\\Menu.cs",
+              "RelativeToolTip": "Capa Presentacion\\Menu.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T00:46:25.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Presentacion\\Menu.cs",
+              "RelativeDocumentMoniker": "Capa Presentacion\\Menu.cs",
+              "ToolTip": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Presentacion\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa Presentacion\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T04:11:27.663Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

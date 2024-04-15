@@ -1,0 +1,290 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Presentacion\\Capa Presentacion.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Datos\\Capa Datos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Datos\\Capa Datos.csproj",
+        "projectName": "Capa Datos",
+        "projectPath": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Datos\\Capa Datos.csproj",
+        "packagesPath": "C:\\Users\\Victor Alejandro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Datos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Victor Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Dominio\\Capa Dominio.csproj": {
+                "projectPath": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Dominio\\Capa Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Dominio\\Capa Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Dominio\\Capa Dominio.csproj",
+        "projectName": "Capa Dominio",
+        "projectPath": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Dominio\\Capa Dominio.csproj",
+        "packagesPath": "C:\\Users\\Victor Alejandro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Victor Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Negocio\\Capa Negocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Negocio\\Capa Negocio.csproj",
+        "projectName": "Capa Negocio",
+        "projectPath": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Negocio\\Capa Negocio.csproj",
+        "packagesPath": "C:\\Users\\Victor Alejandro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Negocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Victor Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Datos\\Capa Datos.csproj": {
+                "projectPath": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Datos\\Capa Datos.csproj"
+              },
+              "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Dominio\\Capa Dominio.csproj": {
+                "projectPath": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Dominio\\Capa Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Presentacion\\Capa Presentacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Presentacion\\Capa Presentacion.csproj",
+        "projectName": "Capa Presentacion",
+        "projectPath": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Presentacion\\Capa Presentacion.csproj",
+        "packagesPath": "C:\\Users\\Victor Alejandro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Presentacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Victor Alejandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Dominio\\Capa Dominio.csproj": {
+                "projectPath": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Dominio\\Capa Dominio.csproj"
+              },
+              "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Negocio\\Capa Negocio.csproj": {
+                "projectPath": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Restaurante\\Sistema Restaurante\\Capa Negocio\\Capa Negocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "FontAwesome.Sharp": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
